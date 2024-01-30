@@ -60,10 +60,10 @@ Jeffrey Netten
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="images/mainly.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/break1.png" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="images/prodly.png" width="375px" alt="breakdown van de product pagina">
+  <img src="images/break2.png" alt="breakdown van de product pagina">
 
 </details>
 
