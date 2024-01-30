@@ -51,7 +51,21 @@ Jeffrey Netten
   <img src="images/product2.png" width="375px" alt="omschrijving van de pagina">
 </details>
 
+## Intakeopdracht/Typografie (week 1)
 
+<details>
+  <summary>Tijdens de intake opdracht was ik nog niet begonnen met dit vak. Hierdoor heb ik de intakeopdracht niet gemaakt.
+  Ik heb wel gekeken naar de slides en de youtube video's. Ook heb ik gekeken naar het programma en het boordelingsformulier</summary>
+
+</details>
+
+## Toegankelijkheid (week 2)
+
+<details>
+ <summary>Ik heb gekeken naar de slides en de youtube video's. Ook heb ik gekeken naar het programma en het boordelingsformulier.
+ Daarnaast heb ik mijn Github aangemaakt en de live link werkende gekregen.</summary> 
+
+</details>
 
 
 ## Breakdownschets (week 3)
