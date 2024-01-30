@@ -99,9 +99,31 @@ Jeffrey Netten
 <details>
   <summary>Deze week ben ik gaan werken aan de opzet van mijn website.</summary>
 
-  ### de hele pagina: 
-  Hieronder is de breakdownschets te vinden van mijn gehele pagina.
-  <img src="images/break1.png" alt="breakdown van de hele pagina">
+  ### MISBHV FOTOS
+  Ik begon met alle afbeeldingen van de website bij elkaar te halen. Dit heb ik gedaan via een image extractor website.
+  Daar kwam ik wel tegen het probleem aan dat elementen als de vergrootglas bij het zoeken en het winkelmandje niet extractable zijn.
+  Om deze reden heb ik deze zelf van het internet afgehaald en heb ik daarvoor dus vervangende elementen gebruikt.
+
+  ### HEADER
+  Nadat ik de foto's bij elkaar had begon ik met het bouwen van de website.Ik besloot als eerste alleen de HTML/CSS op te bouwen en later pas JAVASCRIPT toe te voegen.
+  Zo besloot ik om te beginnen met de header op te bouwen.
+  Dit deed ik door het logo toe te voegen aan de header en dit te centeren. Ook voegde ik de navigatie toe aan de header.
+  Onder het nav elementen plaatste ik een unordered list. Deze bestaat uit png's van: Een vergrootglas, Een Winkelmandje en De Hamburger menu.\
+
+  Om de afbeeldingen te krijgen zoals ze staan op de MISBHV website gebruikte ik Display:Flex. Dit zorgde ervoor dat het logo en de navigatie naast elkaar kwamen te staan.
+  Toch waren er nog wat schoonheids foutjes bij de pagina. Zo vulde de achtergrond niet de hele ruimte en was er veel witruimte. Hiervoor zette ik de padding en margin op 0.
+  Dit zorgde ervoor dat nu het hele scherm is opgevuld. Dit zorgde er alleen voor dat de header te breed was vergeleken de website van MISBHV. Daarom voegde ik als laatste nog een border-box toe.
+  Dit maakte de header net was kleiner waardoor het nu het meest overheen kwam met de pagina van MISBHV.
+
+  ### VIDEO
+  Tijdens het maken van deze opdracht had MISBHV heel groot een video op de voorpagina. Ik wilde dit namaken dus besloot te kijken waar de video naar doorgelinked was.
+  Na een beetje research had ik al snel de video gevonden en besloot ik de video toe te voegen aan de HTML. Dit deed ik door middel van een iframe die linked naar de youtube video.
+  
+
+  ### 
+
+  
+ 
 
   ### dynamisch deel (productpagina): 
   Hieronder is de breakdownschets te vinden van mijn gehele productpagina.
