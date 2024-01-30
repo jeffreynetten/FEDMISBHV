@@ -257,28 +257,40 @@ Jeffrey Netten
 
 
 
-## Eindgesprek (week 5)
+## JAVA SCRIPT (week 5)
 
 <details>
-  <summary>uitwerken voor eindgesprek</summary>
-
- Vanwege het late bijstromen bij dit vak heb ik voor het eingsprek alleen de basis van mijn website staan.
- Daarom heb ik besloten te gaan voor de aankomende herkansing 14 april.
+  <summary>JAVA SCRIPT toegevoegd aan elementen op de website en de 2e pagina gemaakt!</summary>
  
 </details>
 
-HERKANSING:
+  ### 2e pagina
+  Als eerste wat ik deze week heb gedaan is het beginnen aan de 2e pagina. Dit had ik al best snel gedaan door middel van elementen te pakken uit de hoofdpagina.
+  Zo ben ik begonnen met de header en footer compleet te kopieren en mee te nemen naar deze pagina.
+  Na dat gedaan te hebben plaastste ik de productfoto bovenaan de pagina door meteen een width van 100% toe te voegen zodat het de gehele pagina indeling inneemt.
 
-In de tijd dat ik ging werken naar de herkansing toe heb ik heel veel youtube tutorials gezocht naar hoe HTML/CSS/JAVASCRIPT ook alweer precies werkte. Uiteindelijk kwam ik er steeds meer in en herinnerde ik mij ook steeds meer dingen van de eerdere lessen die ik heb gehad in de vorige jaren. 
+  Daarna was het een kweste van de losse tekst elementen van de productpagina goed op een rij te krijgen.
+  Hiervoor plaastste ik de elementen in een unordered list. Dit verdeelde ik in 3 gedeeltes. Ik gebruikte hiervoor dezelfde techniek als die ik gebruikte bij de footer.
+  Zo gaf ik de elementen binnen de list hun eigen class om daarbij hun padding te bepalen en gaf ik de list in zijn geheel verschillende margins om op het juiste resultaat te komen.
+  Daarnaast haalde ik de stipjes weg door middel van list style non. De font mocht toen nog wel wat kleiner en daarvoor gebruikte ik: font-size small.
 
-Op het begin vond ik het heel lastig aan de slag te gaan maar naarmate ik er meer mee aan de slag ging werd het steeds leuker.
-Het gevoel als iets lukt wat je moeilijk vind is echt geweldig. Daardoor kreeg ik meer motivatie en uiteindelijk heb ik de website af kunnen maken.
-Ook heb ik mijn eigen elementen toegevoegd zoals onder andere: Dark-Light mode die niet beschikbaar is op de officiele website.
+  Onder dit gedeelte moest een lijn net als in de footer. Ik besloot hier daarom om weer een HR te plaasten met precies dezelfde instellingen als in de footer.
+  Daarna is er een sectie met de size guide en size keuze. Hiervoor deed ik online research naar hoe je een drop down menu maakt. Dit was niet zo heel ingewikkeld en was uiteindelijk gewoon een kwest van:
+  Een section maken daarbij deze section een class te geven. Die class gebruik je uiteindelijk voor de margins zodat de drop down menu op de juiste plek staat.
+  Dan uiteindelijk kan je een select id aanmaken in de html en vanuit dat kan je verschillende options neerzetten. In mijn geval waren dat de maten van de kleding.
 
-Ik zie nog wel dat ik in bepaalde vlakken moeite heb met het maken van een website. Maar dat zijn punten die ik zeker nog wil leren en niet in 1 keer zullen komen. Dit is in ieder geval op dit moment het gene wat ik heb gecodeerd en het meest trots op ben.
+  Om de dropdown menu uiteindelijk in de juiste formaat te krijgen gebruikte ik width 90%. Dit maakte de menu net zo breed als de HR die erboven stond.
+  Daarnaast heb ik ook de hoogte en grootte van de font aangepast en ben ik gaan spelen met de margins voor het juiste resultaat.
+
+  Daarna heb ik nog een los element toegevoegd met de tekst add to wishlist maar dat hield niet zoveel in.
+
+  Alle elementen die hieronder zijn neergezet waren eigenlijk vooral een kwestie van dingen van de vorige pagina overnemen en dan net de inhoud aanpassen.
+  Zoals een border toevoegen aan verschillende box elementen. Tekst links alignen zoals bij de footer hetzelfde als bij de description en elementen centeren binnen met flex box gerangschikte boxes.
+  Over het algemeen was dit dus allemaal een kwestie van herhalend werken.
 
 
-
+  ### JAVA SCRIPT
+  Nu kwam voor mij het moeilijke gedeelte. Ik heb namelijk zelf niet veel ervaring met JAVA.
 
 
 ## Bronnenlijst
