@@ -54,16 +54,27 @@ Jeffrey Netten
 ## Intakeopdracht/Typografie (week 1)
 
 <details>
-  <summary>Tijdens de intake opdracht was ik nog niet begonnen met dit vak. Hierdoor heb ik de intakeopdracht niet gemaakt.
-  Ik heb wel gekeken naar de slides en de youtube video's. Ook heb ik gekeken naar het programma en het boordelingsformulier</summary>
+  <summary>Intakeopdracht en video's over codering</summary>
+
+  ### De video's
+  Vanwege dat ik dit vak al 2 keer heb herkanst ondertussen had ik de video's eigenlijk al gezien.
+  Maar ik heb ze opnieuw gekeken om mezelf weer terug in het vak te krijgen.
+  Ik was zelf niet bij de werkgroepen aanwezig I.V.M mijn stage die ik op dit moment volg. Daarom heb ik dit in mijn eigen tijd gedaan.
 
 </details>
 
 ## Toegankelijkheid (week 2)
 
 <details>
- <summary>Ik heb gekeken naar de slides en de youtube video's. Ook heb ik gekeken naar het programma en het boordelingsformulier.
- Daarnaast heb ik mijn Github aangemaakt en de live link werkende gekregen.</summary> 
+ <summary>Video's over toegankelijkheid</summary> 
+
+  ### De video's
+  Deze week bestond net als vorige week uit het bekijken van informatieve video's over coderen. Zo heb ik alle video's die op DLO staan weer gekeken.
+  Ik was zelf weer niet bij de werkgroepen I.V.M. de stage die ik op dit moment volg.
+
+  ### Beoordelingsformulier
+  Na mijn fouten van vorig jaar tijdens dit vak leek het mij handig het beoordelingsformulier nog eens goed doorheen te gaan zodat ik niet weer dezelfde fouten zou maken.
+  Dit heb ik daarom grondig gedaan voordat ik met mijn website aan de slag zal gaan.
 
 </details>
 
@@ -71,17 +82,32 @@ Jeffrey Netten
 ## Breakdownschets (week 3)
 
 <details>
-  <summary>uitwerken na afloop 2e werkgroep</summary>
+  <summary>Breakdown schetsen van je website</summary>
 
   ### de hele pagina: 
+  Hieronder is de breakdownschets te vinden van mijn gehele pagina.
   <img src="images/break1.png" alt="breakdown van de hele pagina">
 
-  ### dynamisch deel (bijv menu): 
+  ### dynamisch deel (productpagina): 
+  Hieronder is de breakdownschets te vinden van mijn gehele productpagina.
   <img src="images/break2.png" alt="breakdown van de product pagina">
 
 </details>
 
+## Werken aan website (week 4)
 
+<details>
+  <summary>Deze week ben ik gaan werken aan de opzet van mijn website.</summary>
+
+  ### de hele pagina: 
+  Hieronder is de breakdownschets te vinden van mijn gehele pagina.
+  <img src="images/break1.png" alt="breakdown van de hele pagina">
+
+  ### dynamisch deel (productpagina): 
+  Hieronder is de breakdownschets te vinden van mijn gehele productpagina.
+  <img src="images/break2.png" alt="breakdown van de product pagina">
+
+</details>
 
 
 
