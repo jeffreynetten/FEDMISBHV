@@ -118,16 +118,140 @@ Jeffrey Netten
   ### VIDEO
   Tijdens het maken van deze opdracht had MISBHV heel groot een video op de voorpagina. Ik wilde dit namaken dus besloot te kijken waar de video naar doorgelinked was.
   Na een beetje research had ik al snel de video gevonden en besloot ik de video toe te voegen aan de HTML. Dit deed ik door middel van een iframe die linked naar de youtube video.
+  Dit plaastste ik daarbij in een divje om het af te scheiden van de rest van de pagina.
   
 
-  ### 
+  ### PRODUCTEN
+  De rest van de MISBHV pagina bestaat vooral uit productfoto's die doorlinken naar het product. Deze staan soms op de hele pagina maar ook soms naast elkaar.
+  Ze veranderen dit per product voor variatie. Ik besloot daarom het eerste product neer te plaatsen over de gehele ruimte van de pagina. 
+  Dit deed ik doormiddel van het product een class te geven genaamd: .front en daarbij de max width op 100% te zetten van de pagina.
+  Ook wilde ik dat dit het product is dat de gebruiker naar de volgende pagina brengt.
+  Zo staat het product nu in een a href die doorlinked naar de volgende pagina als je erop klikt.
+
+  ### TEKST
+  Op de pagina van MISBHV staat een bewegende tekst over Gratis Returns en internationale verzending. Deze tekst beweegt op de pagina en wil ik uiteindelijk ook beweegbaar hebben.
+  Op dit moment heb ik nog geen idee hoe ik dat zou moeten doen. Dus voor nu laat ik het gewoon als een balk met daarop de tekst.
+  Dit doe ik door middel van een section toe te voegen genaamd: shipping en daarin een p te zetten. 
+  Daarvan waren de letters meteen wit en de achtergrond zwart zoals ik had aangegeven in de root van de pagina.
+  Om de tekst in het midden te krijgen voegde ik een top van 50% toe en een left van 50%.
+
+  ### MEN/WOMEN
+  Het volgende stuk van de pagina bestaat uit 2 gedeeltes naast elkaar genaamd: 'shop men' en 'shop women'
+  Deze 2 gedeeltes heb ik onder een section gezet en in een 2 divjes omdat deze 2 gedeeltes wel bij elkaar horen maar afgezonderd zijn van elkaar.
+  Shop men gaf ik daarbij een zwarte achtergrond en shop women een witte achtergrond.
+  Ook deed ik de tekst align centered zodat de text in het midden van de pagina zou eindigen en gaf ik de box een padding van 15%.
+  Dit was een kwestie van vele procenten testen tot ik op het juiste formaat kwam. Dit heb ik uiteindelijk ook herhaald voor 'shop women'.
+  Om beide gedeeltes naast elkaar te krijgen gebruikte ik disply: block.
+
+  ### ALL PRODUCTS
+  Ik heb een gedeelte toegevoegd genaamd all products. Dit spreekt voor zich en was eigenlijk hetzelfde principe als PRODUCTEN hierboven.
+  Ik gaf het een Width van 100% zodat het volledige breedte nam over de pagina.
+  Voor de rest was hier weinig aan toe te voegen.
+
+  ### SUBSCRIBE
+  Om de pagina van MISBHV perfect na te maken heb ik ook het subscribe gedeelte overgenomen.
+  Dit deed ik door een div toe te voegen aan de pagina met de class: sub.
+  Ik voegde als eerste de tekst toe die op de pagina stond van MISBHV.
+  Deze tekst wilde ik daarna onder elkaar hebben de daarvoor gebruikte ik BR in de html tekst.
+
+  Om de tekst de juiste opmaak te geven moest ik even wat research doen.
+  Het centeren en de font size vinden was het makkelijkere gedeelte.
+  De font size was een kwestie van steeds iets anders proberen tot het werkt.
+  Het probleem waar ik nu tegenaan kwam was dat er geen ruimte om de letters was.
+  Zo besloot ik padding toe te voegen en hierbij de procenten aan te passen tot ik het gewenste resultaat vond.
+  uiteindelijk eindigde ik met 10%.
+
+  Daarna moest ik het internet even afzoeken om een border lijn toe te voegen.
+  Na wat research te hebben gedaan vond ik daarbij hoe het moest. Zo bracht ik een border en outline aan deze class en nu heeft dit gedeelte een zwarte border zoals op de officiele website.
+
+  ### PRODUCTEN MET PRIJS EN NAAM
+  Dit gedeelte van de website is eigenlijk een combinatie van alles secties hierboven.
+  Omdat ik dit nu allemaal al een keer had gedaan was dit een goede test voor mij.
+
+  Zo besloot ik om binnen een section weer 2 divs te plaastsen.
+  Om deze divs naast elkaar te krijgen gebruikte ik display flex en daarbij flex direction row. Zo kwamen beide divs perfect naast elkaar.
+  
+  Hierbij gaf ik beide divs hun eigen classes.
+  Onder elke sectie besloot ik de afbeelding te zetten met de benodigde tekst.
+  Daarna ging ik door naar de CSS. Binnen de CSS gebruikte ik text align center om alle tekst in het midden te krijgen.
+
+  De afbeeldingen waren compleet buiten proporties. Maar het probleem was dat als ik de volledige class zou aanpassen ik ook elementen zou aanspreken die ik niet zou willen aanspreken.
+  Daarom besloot ik om de images ook nog in aparte classes te zetten.
+  Deze image classes moest ik daarna zo krijgen dat de afbeeldingen de juiste grootte zouden worden.
+  Dit deed ik door als eerste de width op 100% te zetten. Dit zorgde ervoor dat de afbeelding over het hele vak in de breedte zal zijn.
+  Daarna moest ik nog de ruimte om de afbeelding heen veranderen omdat de tekst er tegen aan zat. Dit wilde ik dus alleen aan de onderkant
+  Daarom gaf ik alleen de margin aan de onderkant via margin bottom 10%.
+  
+  
+  Daarnaast maakte ik net als bij SUBSCRIBE een border aan en daarbij een outline.
+  Dit deed ik zodat SUBSCRIBE en PRODUCTEN samen dezelfde grenslijn lijken te hebben zoals op de officiele pagina.
+  
+  Daarna om de tekst op de juiste plek te krijgen gebruikte ik weer BR in html.
+  Dit deed ik hetzelfde bij de andere class. Dit zorgde ervoor dat beide gedeeltes evenredig waren aan elkaar.
+  Beide elementen staan daarbij ook op display block. Dit zorgde ervoor dat beide elementen naast elkaar kwamen te staan.
 
   
- 
 
-  ### dynamisch deel (productpagina): 
-  Hieronder is de breakdownschets te vinden van mijn gehele productpagina.
-  <img src="images/break2.png" alt="breakdown van de product pagina">
+  ### FOOTER
+  Als laatste gedeelte moest ik de footer regelen.
+  Om de footer in de juiste ruimtes te krijgen besloot ik om de footer te verspreiden over verschillende elemeten.
+  Zo heb ik een aantal sections toegevoegd om onderscheid te maken tussen de verschillende gedeeltes van de footer.
+
+  Het bovenste gedeelte van de footer bestaat uit een simpele tekst.
+  Deze tekst is er alleen om mensen aan te sporen voor de form die ik eronder heb gezet.
+  Deze form heb ik toegevoegd door een form te gebruiken met input type text en als placeholder text: email adress
+
+  Op de officiele website is alles afgescheiden door middel van lijnen binnen de footer.
+  Dit heb ik ook gedaan door hr elementen toe te voegen aan de html.
+  
+  Onder de streep heb ik een unordered list neergezet met daarin alle informatie per list element.
+
+  Daarna voor de laatste 2 gedeeltes gebruikte ik net als hierboven een HR element om de gedeeltes af te scheiden en daarbij ook unordered lists om de teksten af te scheiden van elkaar.
+
+  Het enigste probleem dat ik nu nog had was de vormgeving van de footer en dat werk nog best ingewikkeld.
+
+  ### FOOTER VORMGEVING
+  Het eerst waar ik mee begon was kijken naar de gehele footer. Zo vulde de gehele footer niet het hele gedeelte dat ik wilde dat het vulde.
+  Zo voeg ik een border toe aan de footer om daarbij de het gat op te vullen met zwart.
+
+  Daarna ging ik door naar de eerste sectie van de footer dit was de SIGN UP tekst. Om dit juist te krijgen ging ik spelen met de margins van de van de tekst
+  Uiteindelijk kwam ik uit op een 5 procent left margin en een 10 procent margin top.
+  Dit zorgde ervoor dat de tekst mooi aan de linker kant terecht kwam.
+
+  Daarna was het tijd voor de form vormgeving te brengen. Dit was een kwestie van alleen de margin aan de linkerkant aan te passen.
+
+  Nu kwam ik bij een ingewikkelder gedeelte. Met wat research online kwam ik er gelukkig wel uit.
+  Als eerste begon ik met de vormgeving met de gehele list. Zo gaf ik de list een margin left om een betere plaatsing op de site te krijgen.
+  Daarnaast bracht ik een list style non toe om de stipjes weg te krijgen. En om alles aligned aan de linker kant te krijgen gebruikte ik text align left.
+  
+  Ik moest namelijk de volledige list gaan vormgeven op een werkende manier zodat het goed bij de officiele pagina zou passen.
+  Dit deed ik door middel van de unordered list een display block te geven. Daarna ging ik verschillende margins aanpassen om de juiste margins om alle elementen te krijgen.
+  Ook moest ik een padding toevoegen om tussen de elementen te plaasten. Uiteindelijk bracht ik ook aan de verschillende elementen binnen de list verschillende paddings om het juiste resultaat te krijgen.
+
+  Nu voor de andere 2 lists gebruikte ik dezelfde techniek maar gaf ze wel hun eigen aparte classes.
+  Zo gebruikte ik in beide gevallen weer text align left om alles naar links te krijgen.
+  Bij deze lists moeten de elementen naast elkaar en daarbij gebruikte ik Display inline block.
+  Daarna was het eigenlijk net als hierboven vooral een kwestie van vele verschillende margins en paddings toevoegen aan de elementen om het juiste resultaat te krijgen.
+
+  Het enigste probleem die ik nu nog had was dat de HR gedeeltes niet helemaal hetzelfde waren als op de webiste.
+  Om dit op te lossen ging ik online kijken of dit mogelijk was. Daar kwam ik erachter dat je verschillende CSS methodes kan gebruiken op een HR elementen om het juist te krijgen.
+  Zo voegde ik verschillende margins toe aan de lijnen om meer ruimte te krijgen tussen de tekst en lijnen.
+  Als laatste wilde ik de lijnen zo krijgen dat ze niet helemaal tegen de grens van de pagina aan zouden komen. 
+  Daarom besloot ik een width neer te zetten van 90% en een margin left van 5%. Dit zorgde ervoor dat er nu aan beide kanten evenveel ruimte tussen de lijnen zat en het mooi centered is.
+
+    
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+
 
 </details>
 
