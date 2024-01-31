@@ -279,7 +279,7 @@ Jeffrey Netten
   Een section maken daarbij deze section een class te geven. Die class gebruik je uiteindelijk voor de margins zodat de drop down menu op de juiste plek staat.
   Dan uiteindelijk kan je een select id aanmaken in de html en vanuit dat kan je verschillende options neerzetten. In mijn geval waren dat de maten van de kleding.
 
-  Om de dropdown menu uiteindelijk in de juiste formaat te krijgen gebruikte ik width 90%. Dit maakte de menu net zo breed als de HR die erboven stond.
+ Het probleem de de dropdown menu is dat ik Javascript hiervoor wilde gebruiken. Later in dit verslag vertel ik daar meer over. Hier zal ik nu alleen over de CSS praten. Om de dropdown menu uiteindelijk in de juiste formaat te krijgen gebruikte ik width 90%. Dit maakte de menu net zo breed als de HR die erboven stond.
   Daarnaast heb ik ook de hoogte en grootte van de font aangepast en ben ik gaan spelen met de margins voor het juiste resultaat.
 
   Daarna heb ik nog een los element toegevoegd met de tekst add to wishlist maar dat hield niet zoveel in.
@@ -290,7 +290,13 @@ Jeffrey Netten
 
 
   ### JAVA SCRIPT
-  Nu kwam voor mij het moeilijke gedeelte. Ik heb namelijk zelf niet veel ervaring met JAVA.
+  Qua java script gebruik ik in het document maar 2 elementen.
+  Dit heb ik namelijk gedaan in een darkmode toe te voegen aan de website. 
+  MISBHV heeft dit namelijk zelf niet en dit leek mij een sterke toevoeging.
+  Ik heb daarom een darkmode icon toegevoegd aan de navigatie bar. In JAVA script heb ik daarbij de code toegevoegd die gelinked is met de class icon. Als je daar nu op klikt dan toggled die knop de darkmode op de website. De darkmode variabelen zijn in dit geval de kleuren die op de website omdraaien. Zo word wit, zwart en zwart, wit.
+
+  Ook heb ik via JAVASCRIPT een dropdown menu toegevoegd aan het bestand op de productpagina. Dit menu spreekt vrijwel voor zich, het is een dropdown menu waarbij je de maten kan veranderen en die maten moeten dan ook blijven staan. 
+  
 
 
 ## Bronnenlijst
