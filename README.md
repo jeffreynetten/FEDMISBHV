@@ -108,7 +108,7 @@ Jeffrey Netten
   Nadat ik de foto's bij elkaar had begon ik met het bouwen van de website.Ik besloot als eerste alleen de HTML/CSS op te bouwen en later pas JAVASCRIPT toe te voegen.
   Zo besloot ik om te beginnen met de header op te bouwen.
   Dit deed ik door het logo toe te voegen aan de header en dit te centeren. Ook voegde ik de navigatie toe aan de header.
-  Onder het nav elementen plaatste ik een unordered list. Deze bestaat uit png's van: Een vergrootglas, Een Winkelmandje en De Hamburger menu.\
+  Onder het nav elementen plaatste ik een unordered list. Deze bestaat uit png's van: Een vergrootglas, Een Winkelmandje en De Hamburger menu.
 
   Om de afbeeldingen te krijgen zoals ze staan op de MISBHV website gebruikte ik Display:Flex. Dit zorgde ervoor dat het logo en de navigatie naast elkaar kwamen te staan.
   Toch waren er nog wat schoonheids foutjes bij de pagina. Zo vulde de achtergrond niet de hele ruimte en was er veel witruimte. Hiervoor zette ik de padding en margin op 0.
@@ -239,7 +239,7 @@ Jeffrey Netten
   Als laatste wilde ik de lijnen zo krijgen dat ze niet helemaal tegen de grens van de pagina aan zouden komen. 
   Daarom besloot ik een width neer te zetten van 90% en een margin left van 5%. Dit zorgde ervoor dat er nu aan beide kanten evenveel ruimte tussen de lijnen zat en het mooi centered is.
 
-    
+
   
 
   
@@ -279,7 +279,7 @@ Jeffrey Netten
   Een section maken daarbij deze section een class te geven. Die class gebruik je uiteindelijk voor de margins zodat de drop down menu op de juiste plek staat.
   Dan uiteindelijk kan je een select id aanmaken in de html en vanuit dat kan je verschillende options neerzetten. In mijn geval waren dat de maten van de kleding.
 
- Het probleem de de dropdown menu is dat ik Javascript hiervoor wilde gebruiken. Later in dit verslag vertel ik daar meer over. Hier zal ik nu alleen over de CSS praten. Om de dropdown menu uiteindelijk in de juiste formaat te krijgen gebruikte ik width 90%. Dit maakte de menu net zo breed als de HR die erboven stond.
+ Het probleem de de dropdown menu is dat ik Javascript hiervoor wil gebruiken. Later in dit verslag vertel ik daar meer over. Hier zal ik nu alleen over de CSS praten. Om de dropdown menu uiteindelijk in de juiste formaat te krijgen gebruikte ik width 90%. Dit maakte de menu net zo breed als de HR die erboven stond.
   Daarnaast heb ik ook de hoogte en grootte van de font aangepast en ben ik gaan spelen met de margins voor het juiste resultaat.
 
   Daarna heb ik nog een los element toegevoegd met de tekst add to wishlist maar dat hield niet zoveel in.
@@ -298,6 +298,25 @@ Jeffrey Netten
   Ook heb ik via JAVASCRIPT een dropdown menu toegevoegd aan het bestand op de productpagina. Dit menu spreekt vrijwel voor zich, het is een dropdown menu waarbij je de maten kan veranderen en die maten moeten dan ook blijven staan. 
   
 
+### HAMBURGER MENU
+
+<details>
+  <summary>Het hamburger menu uitwerken op de website.</summary>
+</details>
+
+Voor het hamburger menu op de website gebruik ik nu volledig html en CSS. Ik heb er expres voor gekozen om het hamburger menu anders te doen dan op de officiele website. Dit heb ik gedaan omdat het hamburger menu op de officiele website heel veel informatie toont. Dit is voor de gebruiker onhandig en kan veel overzichtelijker en makkelijk klikbaarder weergegeven worden. Hiervoor heb ik gekozen om het hamburger menu subtiel en praktisch te houden. Zo toont het hamburger menu nu maar 7 opties in plaats van 19 opties. Als je wel naar deze andere opties zou willen gaan kan je doorklikken naar een andere pagina met daarbij meer filter opties.
+
+Het hamburger menu heb ik ook wat beter opgemaakt door middel van het font kleiner te maken en padding toe te voegen. Daarnaast werkt het hamburger menu ook met de darkmode die ik eerder heb toegevoegd via javascript.
+
+### SR ONLY
+
+<details>
+  <summary>SCREEN READER FRIENDLY AANPASSINGEN</summary>
+</details>
+
+Na het gesprek met de docent vorige week heb ik te horen gekregen dat ik screen reader only classes moet toevoegen aan de website.
+Dit heb ik nu gedaan na de bron te hebben gevonden genaamd Inclusively Hidden CSS Tricks.
+Mijn pagina is dus nu ook goed te lezen voor mensen die een screenreader gebruiken.
 
 ## Bronnenlijst
 
@@ -316,5 +335,8 @@ Jeffrey Netten
   8. https://www.youtube.com/watch?v=kmVrFwkI9Fw&t=138s&ab_channel=MohitSarangal (Image Sizing)
   9. https://www.youtube.com/watch?v=jx5jmI0UlXU&t=238s&ab_channel=WebDevSimplified (CSS image/element placing)
   10. https://www.youtube.com/watch?v=yCyD5AZegLk&ab_channel=CreativeRafikul (Tekst van rechts naar Links)
+  11. https://css-tricks.com/inclusively-hidden/ (Screen Reader)
+  12. https://www.youtube.com/watch?v=eKo1NV1qxbc&ab_channel=HowToCodeSchool (dropdown menu)
+  13. https://www.youtube.com/watch?v=hBbrGFCszU4&ab_channel=QuickCodingTuts (dropdown menu)
 
 </details>
