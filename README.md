@@ -308,7 +308,7 @@ Voor het hamburger menu op de website gebruik ik nu volledig html en CSS. Ik heb
 
 Het hamburger menu heb ik ook wat beter opgemaakt door middel van het font kleiner te maken en padding toe te voegen. Daarnaast werkt het hamburger menu ook met de darkmode die ik eerder heb toegevoegd via javascript.
 
-### SR ONLY
+### Toegankelijkheid
 
 <details>
   <summary>SCREEN READER FRIENDLY AANPASSINGEN</summary>
@@ -317,6 +317,9 @@ Het hamburger menu heb ik ook wat beter opgemaakt door middel van het font klein
 Na het gesprek met de docent vorige week heb ik te horen gekregen dat ik screen reader only classes moet toevoegen aan de website.
 Dit heb ik nu gedaan na de bron te hebben gevonden genaamd Inclusively Hidden CSS Tricks.
 Mijn pagina is dus nu ook goed te lezen voor mensen die een screenreader gebruiken.
+Dit deed ik door middel van de aria elementen te gebruiken om extra tekst toe te voegen voor mensen die een screen reader gebruiken.
+
+Nadat ik dit had gedaan heb ik via https://ismijnsitetoegankelijk.nl/ een test gedaan of mijn site toegankelijk was. Dit was vrij positief en daar ben ik erg blij mee. Ik kreeg een paar meldingen en heb die proberen weg te werken maar dat is me helaas niet helemaal optijd meer gelukt om op te lossen.
 
 ## Bronnenlijst
 
@@ -338,5 +341,6 @@ Mijn pagina is dus nu ook goed te lezen voor mensen die een screenreader gebruik
   11. https://css-tricks.com/inclusively-hidden/ (Screen Reader)
   12. https://www.youtube.com/watch?v=eKo1NV1qxbc&ab_channel=HowToCodeSchool (dropdown menu)
   13. https://www.youtube.com/watch?v=hBbrGFCszU4&ab_channel=QuickCodingTuts (dropdown menu)
+  14. https://ismijnsitetoegankelijk.nl/ (toegankelijkheidstest)
 
 </details>
