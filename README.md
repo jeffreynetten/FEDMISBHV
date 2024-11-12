@@ -23,6 +23,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Je focus:
   Surface-plane
+  -video/geluid
+  -Animaties
+  -BlingBling
+  -Scroll animaties
+  -Meer complete micro-interacties
  
 </details>
 
