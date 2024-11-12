@@ -38,10 +38,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je opdracht:
   https://misbhv.com/
 
-  </br>
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Hoofdpagina
+   </br>
   <img src="images/front1.png" width="375px" >
   <img src="images/front2.png" width="375px" >
   <img src="images/front3.png" width="375px" >
