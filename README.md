@@ -36,15 +36,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://misbhv.com/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Hoofdpagina
+  <img src="readme-images/front1.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/front2.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/front3.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/front4.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/front5.jpg" width="375px" alt="omschrijving van de pagina">
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Productpagina  
+  <img src="readme-images/product1.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/product2.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/product3.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/product4.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
