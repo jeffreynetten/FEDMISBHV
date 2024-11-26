@@ -91,8 +91,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### de hele pagina: 
   <img src="images/break1.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="images/break2.png" width="375px" alt="breakdown van een dynamisch deel">
-  <img src="images/break3.png" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="images/break2.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/break3.png" width="375px" alt="breakdown van de hele pagina">
+
+  ### Productpagina: 
+  <img src="images/break4.png" width="375px" alt="breakdown van de product pagina">
+  <img src="images/break5.png" width="375px" alt="breakdown van de product pagina">
 
 </details>
 
