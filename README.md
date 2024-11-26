@@ -72,11 +72,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-  <img src="images/toegangtest1.png" width="375px" >
-  <img src="images/toegangtest2.png" width="375px" >
-  <img src="images/toegangtest3.png" width="375px" >
-  <img src="images/toegangtest4.png" width="375px" >
-  <img src="images/toegangtest5.png" width="375px" >
+  <img src="images/toegangtest1.jpg" width="375px" >
+  <img src="images/toegangtest2.jpg" width="375px" >
+  <img src="images/toegangtest3.jpg" width="375px" >
+  <img src="images/toegangtest4.jpg" width="375px" >
+  <img src="images/toegangtest5.jpg" width="375px" >
   
 
 </details>
