@@ -1,1 +1,21 @@
+body {
+    background: white;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(7, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+.logo {
+    margin-left: 60%;
+    margin-right: 50%;
+    width: 75%;
+}
+
+.normaal {
+    margin-top: 50px;
+    overflow: hidden;
+    width: 100%;
+}
 
