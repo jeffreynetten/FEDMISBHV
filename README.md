@@ -47,19 +47,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenshot(s) van de eerste pagina (small screen): 
   Hoofdpagina
    </br>
-  <img src="images/front1.png" width="375px" >
-  <img src="images/front2.png" width="375px" >
-  <img src="images/front3.png" width="375px" >
-  <img src="images/front4.png" width="375px" >
-  <img src="images/front5.png" width="375px" >
+  <img src="images/main.png" width="375px" >
+
+
 
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Productpagina  
-  <img src="images/product1.png" width="375px" >
-  <img src="images/product2.png" width="375px" >
-  <img src="images/product3.png" width="375px" >
-  <img src="images/product4.png" width="375px" >
+  <img src="images/product.png" width="375px" >
+
  
 </details>
 
