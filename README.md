@@ -86,13 +86,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="images/break1.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="images/break2.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="images/break3.png" width="375px" alt="breakdown van de hele pagina">
+
 
   ### Productpagina: 
-  <img src="images/break4.png" width="375px" alt="breakdown van de product pagina">
-  <img src="images/break5.png" width="375px" alt="breakdown van de product pagina">
+
 
 </details>
 
@@ -100,40 +97,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-## Voortgang 1 (week 2)
-
-<details>
-  <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
-
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
-</details>
-
-
-
-
-
-## Voortgang 2 (week 3)
+## Voortgang 1 (week 3)
 
 <details>
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
@@ -180,7 +144,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-## Voortgang 3 (week 4)
+## Voortgang 2 (week 4)
 
 <details>
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
