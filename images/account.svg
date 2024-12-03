@@ -1,0 +1,10 @@
+<svg class="svg-icon svg-icon--user" xmlns="http://www.w3.org/2000/svg" width="21" height="22" viewBox="0 0 21 22">
+    <g id="m-user" transform="translate(-291 -69)">
+      <g id="user" transform="translate(290 68)">
+        <path id="Path_2956" data-name="Path 2956" d="M20.75,21h-1.5V19A3.254,3.254,0,0,0,16,15.75H8A3.254,3.254,0,0,0,4.75,19v2H3.25V19A4.755,4.755,0,0,1,8,14.25h8A4.755,4.755,0,0,1,20.75,19Z" transform="translate(-0.25 1)"></path>
+        <circle id="Ellipse_153" data-name="Ellipse 153" cx="6" cy="6" r="6" transform="translate(6 2)" fill="none"></circle>
+        <path id="Ellipse_153_-_Outline" data-name="Ellipse 153 - Outline" d="M6,1.5A4.5,4.5,0,1,0,10.5,6,4.505,4.505,0,0,0,6,1.5M6,0A6,6,0,1,1,0,6,6,6,0,0,1,6,0Z" transform="translate(6 2)"></path>
+      </g>
+      <rect id="Rectangle_5180" data-name="Rectangle 5180" width="21" height="22" transform="translate(291 69)" fill="none"></rect>
+    </g>
+  </svg>

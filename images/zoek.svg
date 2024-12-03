@@ -1,0 +1,9 @@
+<svg class="svg-icon svg-icon--search" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <g id="m-search" transform="translate(-323 -69)">
+      <g id="search" transform="translate(321.75 68)">
+        <path id="Ellipse_154" data-name="Ellipse 154" d="M8-.75A8.75,8.75,0,1,1-.75,8,8.76,8.76,0,0,1,8-.75Zm0,16A7.25,7.25,0,1,0,.75,8,7.258,7.258,0,0,0,8,15.25Z" transform="translate(3 3)"></path>
+        <path id="Line_172" data-name="Line 172" d="M3.82,4.88-.53.53.53-.53,4.88,3.82Z" transform="translate(16.65 16.65)"></path>
+      </g>
+      <rect id="Rectangle_5181" data-name="Rectangle 5181" width="22" height="22" transform="translate(323 69)" fill="none"></rect>
+    </g>
+  </svg>
