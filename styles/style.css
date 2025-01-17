@@ -1,17 +1,211 @@
 :root {
     font-family:Trebuchet MS;
+    text-transform: uppercase;
 }
 
 header {
     font-size: x-small;
+    align-items: center;
 }
 
-.headerlist {
+ul:nth-of-type(1) {
     list-style-type: none;
     margin-left: -1cm;
+    color: white;
+    background-color: black;
 }
 
 .logo {
     width: 3cm;
 }
 
+li{
+    display:inline-block;
+    padding-inline: 10px;
+    margin: 8px;
+  }
+
+ul {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.frontpic {
+    max-width: 100%;
+}
+
+.articlepic {
+    max-width: 100%;
+    border: 2px;
+}
+
+.articles {
+    display: flex;
+}
+
+footer {
+	color: white;
+	background-color: black;
+	text-align: center;
+	border: 1px solid var(--primary-color);
+  }
+  
+  .form {
+	margin-left: 5%;
+	max-width: 50%;
+	margin-top: 10%;
+  }
+
+  .form2 {
+	margin-left: 5%;
+  }
+  
+  .foot {
+	margin-left: 5%;
+	list-style: none;
+	text-align: left;
+	margin-top: 5%
+  }
+
+  .footerlist {
+	padding: 5% ;
+	font-size: small;
+ }
+
+ .dark-theme {
+	--primary-color: black;
+	--secondary-color: white;
+  }
+
+
+
+
+
+  .KLEDINGINFO {
+	font-size: small;
+	margin-top: 10%;
+	margin-left: 5%;
+	margin-bottom: 5%;
+	list-style: none;
+  }
+
+  .kledinginfolos {
+	padding: 5px;
+	color: var(--secondary-color);
+	background-color: var(--primary-color);
+  }
+
+  .sizing {
+	text-align: center;
+	align-items: center;
+	color: var(--secondary-color);
+	background-color: var(--primary-color);
+ }
+
+ #size-dropdown {
+	width: 90%;
+	height: 40px;
+	font-size: 18px;
+	font-size: small;
+	margin-left: 5%;
+	margin-top: -5%;
+  }
+  
+  .sizeguide {
+	margin-left: 5%;
+	margin-top: 5%;
+	font-size: small;
+	color: var(--secondary-color);
+	background-color: var(--primary-color);
+  }
+
+  button {
+	margin-top: 2px;
+	margin-left: 5%;
+	width: 90%;
+	height: 40px;
+	font-size: 18px;
+	background-color: var(--secondary-color);
+	color: var(--primary-color);
+  }
+
+  .wishlist {
+	text-align: center;
+	margin-top: 10%;
+	margin-bottom: 5%;
+	color: var(--secondary-color);
+	background-color: var(--primary-color);
+  }
+
+  .descriptionshirt {
+	outline: var(--secondary-color);
+	border: 1px solid var(--secondary-color);
+	padding-left: 5%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	font-size: small;
+	color: var(--secondary-color);
+	background-color: var(--primary-color);
+  }
+
+  .delret {
+	outline: var(--secondary-color);
+	border: 1px solid var(--secondary-color);
+	padding-left: 5%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	font-size: small;
+	color: var(--secondary-color);
+	background-color: var(--primary-color);
+}
+  
+.sub {
+	padding: 10%;
+	text-align: center;
+	font-size: 30px;
+	outline: var(--secondary-color);
+	border: 1px solid var(--secondary-color);
+	color: var(--secondary-color);
+  }
+
+  .BROEKEN {
+	color: var(--secondary-color);
+	background-color: var(--primary-color);
+	text-align: center;
+	outline: var(--secondary-color);
+	border: 1px solid var(--secondary-color);
+  }
+  
+  .GLASSES {
+	color: var(--secondary-color);
+	background-color: var(--primary-color);
+	text-align: center;
+	outline: var(--secondary-color);
+	border: 1px solid var(--secondary-color);
+  }
+
+  .broek {
+	max-width: 100%;
+	margin-bottom: 10%;
+  }
+
+  .GLAS {
+	max-width: 100%;
+	margin-bottom: 10%;
+  }
+
+  .productshirt {
+	width: 100%;
+	color: var(--secondary-color);
+	background-color: var(--primary-color);
+  }
